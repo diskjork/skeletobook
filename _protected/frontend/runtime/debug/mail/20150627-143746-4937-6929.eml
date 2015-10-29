@@ -1,0 +1,49 @@
+Message-ID: <e4373d886ae1a1f232a99aa49b0f7592@localhost>
+Date: Sat, 27 Jun 2015 14:37:46 +0200
+Subject: Password reset for Skeleto
+From: Skeleto robot <support@example.com>
+To: lucas5p@hotmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1435408666_17a169a718d8e0bf44f29514aee5f433_=_"
+
+
+--_=_swift_v4_1435408666_17a169a718d8e0bf44f29514aee5f433_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello admin,
+
+Follow this link below to reset your password:
+
+Pleas=
+e, click here to reset your password.
+
+--_=_swift_v4_1435408666_17a169a718d8e0bf44f29514aee5f433_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+Hello admin,
+
+Follow this link below to reset your password:
+=
+
+<a href=3D"http://localhost/skeleto/site/reset-password?token=3DVxL21LHz=
+7Jz5Rk-vRB_lSlAUUpnqjoLj_1435408666">Please, click here to reset your passw=
+ord.</a>    </body>
+</html>
+
+
+--_=_swift_v4_1435408666_17a169a718d8e0bf44f29514aee5f433_=_--

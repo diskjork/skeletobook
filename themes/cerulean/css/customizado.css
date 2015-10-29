@@ -1,0 +1,120 @@
+.form-horizontal .control-label{
+    text-align: left;
+}
+
+.tipoPublicacion{
+    width: 185px;
+    height: 100px;
+    color: #333;
+    border: solid 2px darkgrey;
+    margin: auto;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#aviso-publicacion_id{
+    text-align: center;
+}
+
+#aviso-publicacion_id label
+{
+    width: 20%;
+    height: 160px;
+    color: #333;
+    border: solid 2px darkgrey;
+    margin: auto;
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.5s ease;
+
+}
+
+#aviso-publicacion_id label:hover
+{
+    background-color: #d3d3d3;
+ }
+
+#aviso-tipo{
+    text-align: center;
+}
+
+#aviso-tipo label
+{
+    width: 20%;
+    height: 160px;
+    color: #333;
+    border: solid 2px darkgrey;
+    margin: auto;
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.5s ease;
+
+}
+
+#aviso-tipo label:hover
+{
+    background-color: #d3d3d3;
+}
+
+.cbx-label{
+    font-size: 13px;
+}
+
+.fuenteBoton{
+    font-size: 18px;
+}
+
+.kv-child-table-row th{
+    border: none !important;
+    font-size: 12px;
+}
+
+#sinFoto{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.iconFontSize {
+    font-size:15em;
+}
+.iconFontSizeNuevo {
+    font-size:5em;
+}
+.bloque-novedad{
+    text-align: center;
+    border: solid 25px #eee;
+    padding-top: 25px;
+    height: 570px;
+}
+.botonNovedad{
+    margin-top: 70px;
+}
+.infoHomeTitulo{
+    background-color: #DB251A;
+    color: #FFF;
+}
+.infoHomeTexto{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.btn-info {
+    background-image: none !important;
+}
+
+.home-prueba {
+    
+    
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { .home-prueba  { width: 100% !important; }}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { .home-prueba  { width: 400px !important; } }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { .home-prueba  { width: 800px; } }

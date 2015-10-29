@@ -1,0 +1,49 @@
+Message-ID: <a2633ba836adf432e4a5549d78ba49b4@localhost>
+Date: Wed, 28 Oct 2015 18:44:08 +0100
+Subject: Password reset for Autobook
+From: Autobook robot <support@example.com>
+To: jofre.jonathan@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1446054248_23ee4a3042bc5588fe83dde6f192276e_=_"
+
+
+--_=_swift_v4_1446054248_23ee4a3042bc5588fe83dde6f192276e_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello lukas,
+
+Follow this link below to reset your password:
+
+Pleas=
+e, click here to reset your password.
+
+--_=_swift_v4_1446054248_23ee4a3042bc5588fe83dde6f192276e_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+Hello lukas,
+
+Follow this link below to reset your password:
+=
+
+<a href=3D"http://localhost/skeleto/site/reset-password?token=3DXoulGgzO=
+jkNs2AVTj-kjA1y8gzvb-Adl_1446054248">Please, click here to reset your passw=
+ord.</a>    </body>
+</html>
+
+
+--_=_swift_v4_1446054248_23ee4a3042bc5588fe83dde6f192276e_=_--
