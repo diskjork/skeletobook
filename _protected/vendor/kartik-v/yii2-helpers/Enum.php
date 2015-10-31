@@ -3,7 +3,7 @@
 /**
  * @copyright Copyright &copy; Kartik Visweswaran, Krajee.com, 2013 - 2015
  * @package yii2-helpers
- * @version 1.3.2
+ * @version 1.3.3
  */
 
 namespace kartik\helpers;
@@ -119,7 +119,7 @@ class Enum extends \yii\helpers\Inflector
         }
         if ($human) {
             if ($interval <= 0) {
-                $elapsed = Yii::t('kvenum', 'a moment') . $append;
+                $elapsed = Yii::t('kvenum', 'a moment ago');
             } elseif ($interval < 60) {
                 $elapsed = Yii::t('kvenum', '{n, plural, one{one second} other{# seconds}}',
                         ['n' => $interval]) . $append;
