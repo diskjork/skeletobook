@@ -5,7 +5,7 @@ use yii\helpers\Html;
 /* @var $model frontend\models\Aviso */
 
 $this->title = Yii::t('app', 'Publicar vehiculo');
-$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Avisos'), 'url' => ['index']];
+$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Avisos'), 'url' => ['admin']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="aviso-create">

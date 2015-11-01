@@ -6,5 +6,5 @@ return [
     'The verification code is incorrect.' => 'El código de verificación es incorrecto.',
     'Home' => 'Inicio',
     'You are not allowed to perform this action.' => 'No estás autorizado a hacer esto.',
-    '{attribute} must be a number.' => '{attribute} debe ser un número.'
+    '{attribute} must be a number.' => '{attribute} debe ser un número.',
 ];

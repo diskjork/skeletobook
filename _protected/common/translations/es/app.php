@@ -61,6 +61,7 @@ return [
     'We will send you an email with account activation link.' => 'Te enviaremos un enlace a tu correo para activar tu cuenta.',
     'We couldn\'t sign you up, please contact us.' => 'El registro no se ha podido completar, por favor contacta con nosotros.',
 
+
     // login
     'Remember me'  => 'Recordarme',
     'Please fill out the following fields to login:' => 'Por favor, rellena los siguiente campos para iniciar sesión:',

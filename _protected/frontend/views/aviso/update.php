@@ -5,7 +5,7 @@ use yii\helpers\Html;
 /* @var $model frontend\models\Article */
 
 $this->title = Yii::t('app', 'Actualizar aviso') . ': ' . $model->titulo;
-$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Avisos'), 'url' => ['index']];
+$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Avisos'), 'url' => ['admin']];
 $this->params['breadcrumbs'][] = ['label' => $model->titulo, 'url' => ['view', 'id' => $model->id]];
 $this->params['breadcrumbs'][] = Yii::t('app', 'Update');
 ?>
